@@ -19,6 +19,7 @@ The model that learned to map colors to names is a recurrent neural network that
 
 <img src="purpleish.png" width="200" />
 
+Word #&#xfeff;1 candidates:
 ```
 roses_hydrangeas
 lacy_foliage
@@ -30,7 +31,10 @@ oriental_poppies
 maidenhair_ferns
 oak_leaf_hydrangea
 blue_hydrangeas
+```
 
+Word #&#xfeff;2 candidates:
+```
 violet
 lavender_flowers
 wonderfully_fragrant
@@ -41,7 +45,10 @@ purple
 purple_blooms
 cornflowers
 hibiscuses
+```
 
+Word #&#xfeff;3 candidates:
+```
 purple
 pink
 violet
@@ -52,7 +59,10 @@ lavender_flowers
 lavender
 Asiatic_lilies
 monarda
+```
 
+Word #&#xfeff;4 candidates:
+```
 roses
 purple
 pink
@@ -71,6 +81,7 @@ Similarly, when providing RGB values of 1, 159, and 11 (a booger-green color) as
 
 <img src="booger_green.png" width="200" />
 
+Word #&#xfeff;1 candidates:
 ```
 greenbelt
 drainage_easements
@@ -82,7 +93,10 @@ sprigging
 easements
 buffer_strips
 Growth_Boundary
+```
 
+Word #&#xfeff;2 candidates:
+```
 green
 jade
 blues_pinks
@@ -93,7 +107,10 @@ plumbago
 sage_Salvia
 olive
 purple_leaved
+```
 
+Word #&#xfeff;3 candidates:
+```
 green
 plumbago
 purples_blues
@@ -104,7 +121,10 @@ lime
 hibiscuses
 sage_Salvia
 blues_pinks
+```
 
+Word #&#xfeff;4 candidates:
+```
 green
 pineapple_sage
 plumbago
