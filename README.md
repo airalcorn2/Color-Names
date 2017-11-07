@@ -9,7 +9,7 @@ Using these word embeddings, I built two different models: one that maps a name 
 
 But the model also knows more interesting colors than those. For example, it knows that "deep purple" is a darker version of purple.
 
-<img src="purple.png" width="200" /> <img src="deep_purple.png" width="200" />s
+<img src="purple.png" width="200" /> <img src="deep_purple.png" width="200" />
 
 It also knows that "ocean" is an aqua color, and that "calm ocean" is a lighter aqua while "stormy ocean" is a gray purple.
 
