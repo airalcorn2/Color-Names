@@ -75,7 +75,7 @@ purple_blooms
 flowers
 ```
 
-I personally like "sweetly fragrant fuchsia"
+I personally like "sweetly fragrant fuchsia".
 
 Similarly, when providing RGB values of 1, 159, and 11 (a booger-green color) as input to the model, it generates the following:
 
